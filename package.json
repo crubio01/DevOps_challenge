@@ -1,8 +1,8 @@
 {
-  "name": "devops-tutorial",
+  "name": "devops-crubio",
   "version": "0.0.5",
   "private": true,
-  "description": "DevOps Tutorial App",
+  "description": "DevOps crubio App",
   "scripts": {
     "start": "node app.js",
     "mocha_unit_test_api": "./node_modules/mocha/bin/mocha --recursive --reporter xunit-file test/api/",
@@ -104,6 +104,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/oneibmcloud/devops-tutorial-1.git"
+    "url": "https://github.com/oneibmcloud/devops-crubio-1.git"
   }
 }
